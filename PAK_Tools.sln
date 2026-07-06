@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAK_Packer", "PAK_Packer\PAK_Packer.csproj", "{8C7489CB-037B-4F22-A763-E2910D844CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAK_Unpacker", "PAK_Unpacker\PAK_Unpacker.csproj", "{0DD14ADA-F9B8-440C-A744-6D349EF7F9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7489CB-037B-4F22-A763-E2910D844CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7489CB-037B-4F22-A763-E2910D844CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7489CB-037B-4F22-A763-E2910D844CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7489CB-037B-4F22-A763-E2910D844CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD14ADA-F9B8-440C-A744-6D349EF7F9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD14ADA-F9B8-440C-A744-6D349EF7F9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD14ADA-F9B8-440C-A744-6D349EF7F9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD14ADA-F9B8-440C-A744-6D349EF7F9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
